@@ -1,0 +1,16 @@
+{
+  "name": "vdauchy/laravel-model-injector",
+  "license": "MIT",
+  "require": {
+    "php": "^7.4",
+    "illuminate/support": "*",
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "VDauchy\\ModelInjector\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
